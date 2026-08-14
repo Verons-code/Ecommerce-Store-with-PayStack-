@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <ellipse cx="200" cy="360" rx="80" ry="12" fill="#E67E22" opacity="0.2"/>
+  <rect x="155" y="80" width="90" height="260" rx="20" fill="url(#citrusGrad)" stroke="#E67E22" stroke-width="3"/>
+  <rect x="170" y="60" width="60" height="30" rx="8" fill="#F1C40F"/>
+  <circle cx="200" cy="180" r="40" fill="#F1C40F" opacity="0.3"/>
+  <path d="M185 165 L200 145 L215 165 L200 185 Z" fill="#E67E22" opacity="0.5"/>
+  <text x="200" y="280" text-anchor="middle" font-family="serif" font-size="14" fill="#E67E22" font-weight="bold">CITRUS</text>
+  <defs>
+    <linearGradient id="citrusGrad" x1="155" y1="80" x2="245" y2="340">
+      <stop offset="0%" stop-color="#F1C40F"/>
+      <stop offset="100%" stop-color="#E67E22"/>
+    </linearGradient>
+  </defs>
+</svg>

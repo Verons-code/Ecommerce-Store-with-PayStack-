@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <ellipse cx="200" cy="360" rx="80" ry="12" fill="#0077B6" opacity="0.2"/>
+  <rect x="155" y="80" width="90" height="260" rx="20" fill="url(#oceanGrad)" stroke="#0077B6" stroke-width="3"/>
+  <rect x="170" y="60" width="60" height="30" rx="8" fill="#90E0EF"/>
+  <path d="M160 200 Q180 185 200 200 Q220 215 240 200" stroke="#90E0EF" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M160 220 Q180 205 200 220 Q220 235 240 220" stroke="#0077B6" stroke-width="2" fill="none" opacity="0.4"/>
+  <text x="200" y="280" text-anchor="middle" font-family="serif" font-size="14" fill="#0077B6" font-weight="bold">OCEAN</text>
+  <defs>
+    <linearGradient id="oceanGrad" x1="155" y1="80" x2="245" y2="340">
+      <stop offset="0%" stop-color="#90E0EF"/>
+      <stop offset="100%" stop-color="#0077B6"/>
+    </linearGradient>
+  </defs>
+</svg>
