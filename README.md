@@ -91,4 +91,3 @@ This app is ready for deployment on platforms like Vercel. Make sure to add the 
 
 - Do not commit real secret keys.
 - Keep `.env.local` local to your machine and ignore it in Git.
-[README.md](https://github.com/user-attachments/files/31090441/README.md)
